@@ -2,10 +2,10 @@
 # The username for the user accessing the database. In this case, I created a separate "devuser". Just make sure, whatever it is, you use it for all three
 # tests (otherwise it could become an issue when you get to the OAuth2.0 client steps in "test3.py" 
 # uname = "[user name]"
-uname = "ADMIN"
+uname = "DEVUSER"
 
 # pwd = "[the password for the above user]"
-pwd = "Jimmy316109!"
+pwd = "Password1234"
 
 # Review my "test1.py" file to see how I have this set-up. I have installed the "Path Intellisense" VS Code extension for simplifying entering path and file
 # names. So if it looks weird, that is why. 
