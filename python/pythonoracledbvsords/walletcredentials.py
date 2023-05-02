@@ -5,18 +5,18 @@
 uname = "DEVUSER"
 
 # pwd = "[the password for the above user]"
-pwd = "Password1234"
+pwd = "Jimmy316109!"
 
 # Review my "test1.py" file to see how I have this set-up. I have installed the "Path Intellisense" VS Code extension for simplifying entering path and file
 # names. So if it looks weird, that is why. 
 # cdir = "[directory (aka folder) where this stuff lives]"
 
-cdir = "./config_dir/"
+cdir = "./config_dir2/"
 
 # This is the "Wallet Location"; I went ahead and included my wallet in the configuration directory as well.
 # wloc = "[directory (aka folder) where this stuff lives]"
 
-wltloc = "./config_dir/"
+wltloc = "./config_dir2/"
 
 # The Wallet password. When you are in the OCI cloud console (as the admin!), you'll download your wallet. We ask you to include a wallet password for
 # security purposes. I just used "password1234" since this all for testing purposes. But keep this in mind for real-world usage...don't use
